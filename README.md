@@ -2,7 +2,7 @@
 Myself AKSHAT NAUTIYAL from btech CSE WITH AIML  from Suresh Gyan Vihar University Jaipur <br><br> Results-driven Full Stack Developer with over 2 years of hands-on experience in Angular JS, UI / UX development for prestigious clients
 in the Web Development and Software Testing sectors. Proven expertise in project management and team leadership with a track record
 of successfully delivering projects for renowned tech giants and development companies such as (GAO TEK INC, SUVERN CONSULTANTS,
-PHN TECHNOLOGIES, etc.). <br><br>My Hoobies are playing FPS Game and coding in free time  <br>
+PHN TECHNOLOGIES, etc.). <br><br>My Hoobies are playing FPS Game and coding   <br>
 
 
 ## 🌐 Socials:
